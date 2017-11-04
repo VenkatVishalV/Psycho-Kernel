@@ -60,6 +60,3 @@ append_file fstab.mt6795 "usbdisk" fstab;
 write_boot;
 
 ## end install
-
-
-
